@@ -1,0 +1,15 @@
+# Dependencies
+node_modules/
+
+# Next.js build output
+.next/
+out/
+
+# Environment files - NEVER commit real keys
+.env
+.env.local
+.env.*.local
+
+# Logs and OS files
+*.log
+.DS_Store
